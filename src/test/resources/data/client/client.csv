@@ -1,0 +1,6 @@
+_id|first_name|last_name|email|address_id
+1|John|Doe|johndoe@example.com|1
+2|Alice|Smith|alice.smith@example.com|2
+3|Michael|Johnson|michael.johnson@example.com|3
+4|Emily|Williams|emily.williams@example.com|4
+5|James|Brown|james.brown@example.com|5

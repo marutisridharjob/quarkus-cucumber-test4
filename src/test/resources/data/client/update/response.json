@@ -1,0 +1,16 @@
+{
+  "content": {
+    "id": "1",
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "johndoe@site.com",
+    "address": {
+      "streetNumber": "123",
+      "streetName": "Main Street",
+      "suburb": "Downtown",
+      "postcode": "10001",
+      "city": "New York",
+      "state": "NY"
+    }
+  }
+}
